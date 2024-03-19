@@ -7,7 +7,6 @@ export default defineConfig({
       input: ['./css/app.css', './js/app.js'],
       refresh: true,
       publicDirectory: '../../public',
-      buildDirectory: '../../public/build'
     }),
   ],
 });
